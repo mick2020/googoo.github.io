@@ -1,0 +1,2 @@
+# googoo.github.io
+hugo
